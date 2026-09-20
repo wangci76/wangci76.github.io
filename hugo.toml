@@ -6,7 +6,7 @@ theme = "PaperMod"
 
 [params]
   author = "Mingjian"
-  description = "Systems, LLM, MoE and NUMA"
+  description = "AI Infra"
   ShowReadingTime = true
   ShowToc = true
   TocOpen = true
